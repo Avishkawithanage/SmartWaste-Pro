@@ -1,6 +1,5 @@
 
-# SmartWaste Pro – IoT Layer (Plastic Compartment)
-
+# SmartWaste Pro – IoT Layer (Plastic Compartment) 
 ## Project Overview
 
 SmartWaste Pro is a product-based IoT project designed as a **multi-compartment smart waste bin** for efficient waste monitoring.
