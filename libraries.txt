@@ -1,2 +1,0 @@
-HX711
-Finalize IoT plastic compartment prototype (ESP32 + HX711)
